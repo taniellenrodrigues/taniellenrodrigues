@@ -1,6 +1,6 @@
 <h1>💫 Olá, eu sou a Taniellen!</h1>
 
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas - atualmente no 2º semestre na faculdade Estácio de Sá, e moro em Portugal a mais de 2 anos. 
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas - atualmente no 3º semestre na faculdade Estácio de Sá, e moro em Portugal a mais de 2 anos. 
 Já aprendi a programar em Python e atualmente estou estudando HTML e CSS para fortalecer minha base no desenvolvimento web.
 Também tive contato com C, mas percebi que meu foco é mais voltado para tecnologias web e Python.
 Também aprendi sobre lógica de programação, boas práticas e desenvolvimento de interfaces simples!
